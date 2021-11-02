@@ -7,7 +7,19 @@ p {
   font-size: 16 px;
 }
 
-h1 {
+h2 {
   font-family: Georgia;
   font-size: 30 px;
+}
+
+
+
+#btn{
+  color: #DEB48E;
+}
+
+h1 {
+  font-family: Georgia;
+  font-size: 50 px;
+  text-align: center;
 }
