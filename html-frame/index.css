@@ -1,0 +1,39 @@
+#container {
+  width:100%;
+  padding: inherit;
+}
+
+
+#h1 {
+  padding-left: 5;
+  padding-right: 5;
+  padding-top: 5;
+  padding-bottom: 5;
+  text-align: center;
+}
+
+#byline {
+  padding-left: 5;
+  padding-right: 5;
+  padding-top: 5;
+  padding-bottom: 5;
+  text-align: center;
+}
+
+#h2 {
+  padding-left: 5;
+  padding-right: 5;
+  padding-top: 5;
+  padding-bottom: 5;
+}
+
+#p {
+  padding-left: 5;
+  padding-right: 5;
+  padding-top: 5;
+  padding-bottom: 5;
+}
+
+#h1 {
+  text-align: center;
+}
