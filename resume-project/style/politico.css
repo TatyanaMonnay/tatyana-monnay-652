@@ -1,0 +1,30 @@
+body {
+background-color: #FCEED8;
+padding-left: 10px;
+}
+
+iframe {
+  padding: inherit;
+}
+
+
+h1 {
+  font-family: Georgia;
+  font-size: 30 px;
+  padding: 10px;
+}
+
+p {
+  font-family: 'Lora', serif;
+}
+
+img {
+  width: 100%;
+}
+
+#header {
+  background-color: #D06550;
+  font-family: Verdana;
+  font-size: 100px;
+  width: inherit;
+}

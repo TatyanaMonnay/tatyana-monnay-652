@@ -1,0 +1,61 @@
+#container {
+  width:100%;
+  padding: inherit;
+  text-align: center;
+}
+
+
+#h1 {
+  padding-left: 10;
+  padding-right: 5;
+  padding-top: 5;
+  padding-bottom: 5;
+  text-align: center;
+  font-family: serif; Georgia;
+}
+
+#byline {
+  padding-left: 5;
+  padding-right: 5;
+  padding-top: 5;
+  padding-bottom: 5;
+  text-align: center;
+  font-family: serif; Georgia;
+}
+
+#h2 {
+  padding-left: 5;
+  padding-right: 5;
+  padding-top: 5;
+  padding-bottom: 5;
+  font-family: serif; Georgia;
+}
+
+#p {
+  padding-left: 5;
+  padding-right: 5;
+  padding-top: 5;
+  padding-bottom: 5;
+  font-family: 'Barlow', sans-serif;
+font-family: 'Lora', serif;
+}
+
+#h1 {
+  text-align: center;
+  font-weight: bold;
+}
+
+strong {
+  font-size: 50 px;
+  padding: inherit;
+}
+
+#pullquote-top {
+  font-weight: bold;
+  padding-bottom: 20 px;
+  font-size: 20 px;
+}
+
+#contributions {
+  font-style: italic;
+}
