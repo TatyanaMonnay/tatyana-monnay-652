@@ -8,15 +8,15 @@
 }
 
 
-#headline {
+.headline {
   padding-left: 10;
   padding-right: 10;
   padding-top: 5;
   padding-bottom: 7;
-  text-align: center;
   font-family: 'Georgia', serif;
   font-weight: bold;
-  font-size: 50px;
+  font-size: 60px;
+  text-align: center;
 }
 
 #byline {
@@ -26,18 +26,18 @@
   padding-bottom: 7;
   text-align: center;
   font-family: 'Georgia', serif;
-  font-size: 25px;
+  font-size: 30px;
 }
 
 
 
 p {
-  padding-left: 5;
+  padding-left: 10;
   padding-right: 5;
-  padding-top: 5;
+  padding-top: 7;
   padding-bottom: 5;
-  font-family: 'Barlow', sans-serif;
-  font-size : 15px;
+  font-family: 'Montserrat', sans-serif;
+  font-size : 17px;
 }
 
 
@@ -46,6 +46,8 @@ strong {
   padding: inherit;
   font-family: 'Georgia', serif;
   color: green;
+  text-align: center;
+
 }
 
 .pullquote-top {
@@ -54,12 +56,19 @@ strong {
   font-size: 35px;
 color: green;
 font-style: italic;
+border-top-style: solid; green;
+text-align: center;
+padding-left: 50px;
+padding-right: 50px;
 }
 
 .pullquote-bottom {
   padding-bottom: 20px;
   font-weight: normal;
   font-size: 30px;
+  border-top-style: solid; green;
+  text-align: center;
+
 }
 
 
@@ -98,7 +107,7 @@ figcaption {
 .header {
   padding: 60px;
   text-align: center;
-  background: black;
+  background: green;
   color: white;
   font-size: 30px;
 }
@@ -152,10 +161,17 @@ figcaption {
 }
 
 
-#graphic {
+.graphic {
   display: block;
   margin-left: 50px;
   margin-right: 50px;
   width: 50%;
   float: right;
+  padding-right: 5px;
+  padding-bottom: 5px;
+}
+
+.read {
+  font-family: 'Georgia', serif;
+  font-size: 3em
 }
